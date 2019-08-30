@@ -1,0 +1,8 @@
+---
+# Array of URLs that are not counted in the results
+filtered_urls:
+  - /foreman_tasks/api/tasks
+
+# Number of results to return starting from the most to least occurences
+# Useful for seeing only the highest found URLs
+results_max: 20

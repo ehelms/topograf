@@ -1,0 +1,5 @@
+data/
+Gemfile.lock
+*.swp
+.bundle
+.vendor
